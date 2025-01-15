@@ -57,4 +57,4 @@ This project is a graphical user interface (GUI) calculator application built us
 ### How to Run  
 1. Clone this repository:  
    ```bash  
-   git clone <repository-url>
+   git clone https://github.com/anki2003ta/GUI_CALCULATOR
